@@ -1,7 +1,7 @@
 # VanillaAddons
 
 1. Download the master branch (VanillaAddons-master.zip) 
-       or select each individual zipped file download each individually and skip step 2.
+       or select each of the individually zipped files and download each individually, skipping step 2.
 
 2. Open the archive and enter the subdirectory.
 
